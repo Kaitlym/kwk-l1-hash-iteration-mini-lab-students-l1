@@ -16,7 +16,7 @@ celeb_friend={}
 celeb_friend["kaitlyn"] = "hermonie granger"
 
 class_celeb_friend{
-  "jack" => "gerard way",
+  "jack" => "fox",
   "gerardo" => "wolf",
   "fidel" => "the mafia"
 }
